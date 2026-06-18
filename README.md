@@ -71,11 +71,17 @@ pip install requests cfgrib xarray numpy matplotlib cartopy scipy imageio
 4. Run all cells. The downloader fetches the latest model cycle, then each 
    plotting cell generates its product set.
 
+ ## Sample Output
+
+![500 hPa Relative Vorticity]([images/vort500.png](/tree/plots-samples))
+
 ## Authors
 
-Developed by **Hossein Shokoohi** & **Hossein Mastaneh** 
+Developed by **Hossein Shokoohi** & **Hussein Mastaneh** 
 at the [Bushehr Meteorological Office](https://bushehrmet.ir).
 
 ## License
 
 Released under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+

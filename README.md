@@ -71,9 +71,9 @@ pip install requests cfgrib xarray numpy matplotlib cartopy scipy imageio
 4. Run all cells. The downloader fetches the latest model cycle, then each 
    plotting cell generates its product set.
 
- ## Sample Output
+## Sample Output
 
-![500 hPa Relative Vorticity]([images/vort500.png](/tree/plots-samples))
+You can view sample forecast maps [here](https://github.com/hshokoohi/JMA-Model-Plot/tree/plots-samples).
 
 ## Authors
 

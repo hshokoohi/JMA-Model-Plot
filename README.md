@@ -77,7 +77,7 @@ You can view sample forecast maps [here](https://github.com/hshokoohi/JMA-Model-
 
 ## Authors
 
-Developed by **Hossein Shokoohi** [(@hshokoohi)](https://github.com/hshokoohi) & **Hussein Mastaneh** [(@hmastaneh)](https://github.com/hmastaneh)
+Developed by [**Hossein Shokoohi**](https://github.com/hshokoohi) & [**Hussein Mastaneh**](https://github.com/hmastaneh)
 at the [Bushehr Meteorological Office](https://bushehrmet.ir).
 
 ## License

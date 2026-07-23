@@ -73,7 +73,7 @@ pip install requests cfgrib xarray numpy matplotlib cartopy scipy imageio
 
 ## Sample Output
 
-You can view sample forecast maps [here](https://github.com/hshokoohi/JMA-Model-Plot/tree/plots-samples).
+You can view sample forecast maps [here]([https://github.com/hshokoohi/JMA-Model-Plot/tree/plots-samples](https://github.com/hshokoohi/JMA-Model-Plot/tree/main/PlotSamples)).
 
 ## Authors
 
